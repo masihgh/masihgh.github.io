@@ -16,14 +16,14 @@ timezone: Asia/Tehran
 
 title: "Masih's Note" # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: More Article From Masih # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  "A Minimal Masih's Blog , Technical Posts Or Funny Posts"
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://masihgh.ir"
 
 github:
   username: masihgh # change to your GitHub username
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://masihgh.ir"
 
 # ------------ The following options are not recommended to be modified ------------------
 
